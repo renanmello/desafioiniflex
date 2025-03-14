@@ -39,7 +39,7 @@ java src.Main
 Ou, se estiver utilizando uma IDE, basta rodar a classe Main.
 
 📂 Estrutura do Projeto
-*src
+* 📂src 
     * ┣  Pessoa.java
     * ┣  Funcionario.java
     * ┣  Main.java
