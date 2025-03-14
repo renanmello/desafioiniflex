@@ -24,7 +24,7 @@ Este projeto foi desenvolvido como parte de um teste prático de programação, 
 
 1️⃣ Clone o repositório:  
 ```bash
-git clone [(https://github.com/renanmello/desafioinflex)>]
+git clone https://github.com/renanmello/desafioinflex
 ```
 2️⃣ Navegue até a pasta do projeto:
 ```bash
