@@ -41,10 +41,9 @@ Ou, se estiver utilizando uma IDE, basta rodar a classe Main.
 📂 Estrutura do Projeto
 📂 src
  ┣ 📜 Pessoa.java
- 
  ┣ 📜 Funcionario.java
- 
  ┣ 📜 Main.java
+
  
 Pessoa.java → Classe base representando uma pessoa.
 Funcionario.java → Extende Pessoa, adicionando atributos específicos de funcionários.
